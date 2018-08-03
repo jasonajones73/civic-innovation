@@ -12,14 +12,6 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -44,7 +36,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <loc>/project/ps-1/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,7 +44,7 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/ps-2/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -118,7 +110,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
+      <loc>/tags/elections/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +119,7 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
+      <loc>/tags/general/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>

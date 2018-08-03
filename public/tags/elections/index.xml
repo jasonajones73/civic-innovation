@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Civic Innovation Competition</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Civic Innovation Competition</description>
+    <title>Elections on Civic Innovation Competition</title>
+    <link>/tags/elections/</link>
+    <description>Recent content in Elections on Civic Innovation Competition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/elections/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Understanding Local Government</title>
-      <link>/project/ps-1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/ps-1/</guid>
-      <description>Summary of problem: When attempting to understand programs, services and even taxes it can be incredibly difficult to delineate between Guilford County and the municipalities that are contained within. Citizens generally have a difficult time understanding who to contact and in some cases may feel hindered or discouraged by this lack of understanding. We do a good job of providing information on our website but citizens would need to know what they are looking for to access it.</description>
-    </item>
     
     <item>
       <title>Voter Wait Times</title>

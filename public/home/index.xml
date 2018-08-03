@@ -23,12 +23,22 @@
     </item>
     
     <item>
-      <title></title>
+      <title>PURPOSE</title>
       <link>/home/description/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/description/</guid>
-      <description>Local governments across the country have become a platform for experimentation. The explosion of innovation within local government is in response to a limited resource supply and an increase in demand for better service. With its combination of resources, authority, influence, and accountability, some local governments are stepping up to the challenge to deliver better service to more people, faster. Civic hackers, data scientists, philanthropists and social entrepreneurs are becoming partners in experiments to improve local government.</description>
+      <description>Local governments across the country have become a platform for experimentation. The explosion of innovation within local government is in response to a limited resource supply and an increase in demand for better service. With its combination of resources, authority, influence, and accountability, some local governments are stepping up to the challenge to deliver better service to more people, faster.
+Pilot projects supported by philanthropic dollars are an emerging method for encouraging innovation in local government operations and services.</description>
+    </item>
+    
+    <item>
+      <title>Problem Statements</title>
+      <link>/home/problem-statements/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/problem-statements/</guid>
+      <description></description>
     </item>
     
   </channel>

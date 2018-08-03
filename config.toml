@@ -265,13 +265,13 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Purpose"
+  url = "#description"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Problems"
+  url = "#problem-statements"
   weight = 2
 
 [[menu.main]]
