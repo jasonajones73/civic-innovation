@@ -7,7 +7,7 @@ date = 2017-10-15T00:00:00
 title = "Civic Innovation Competition"
 
 # Order that this section will appear in.
-weight = 1
+weight = 10
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -20,7 +20,7 @@ weight = 1
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/application/"
+  url = "https://seam.ly/hEwOeHiO"
   label = '<i class="fa fa-edit"></i> APPLY NOW'
 +++
 
