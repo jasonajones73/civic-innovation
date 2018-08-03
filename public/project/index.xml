@@ -13,12 +13,52 @@
     
     
     <item>
+      <title>Election Field Techs</title>
+      <link>/project/ps-3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-3/</guid>
+      <description>Summary of problem: We utilize up to 20 field technicians on election day, whose duties vary between voting machine repair, to resupply support, to other election procedure assistance. Some are based in the office and deployed by a supervisor to an area of need. Others have a “territory” in which they operate. Currently, we are not able to track these technicians to most efficiently deploy them.
+How it affects the organization: Most significant impact is that we are not able to most effectively optimize the deployment of our field technicians on Election Day.</description>
+    </item>
+    
+    <item>
+      <title>Foster Parents</title>
+      <link>/project/ps-5/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-5/</guid>
+      <description>Summary of problem: It is very difficult to reach and recruit people that are potentially interested in becoming foster parents. It is often true that people don’t completely understand what all is involved in becoming a foster parent and the potential rewards. This results in a significant amount of time, energy and money being spent on finding foster families and placing children in alternative options when foster families are not available.</description>
+    </item>
+    
+    <item>
+      <title>Social Services Lobby</title>
+      <link>/project/ps-4/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-4/</guid>
+      <description>Summary of problem: It is no secret that some people have experienced significant wait times when visiting one of our locations to access various Social Services programs or services. We are constantly seeking innovative solutions to managing this and making the experience more positive for citizens and employees.
+How it affects the organization: This obviously has the potential to increase any existing backlogs and create a negative or adversarial atmosphere when first encountering Guilford County government.</description>
+    </item>
+    
+    <item>
       <title>Understanding Local Government</title>
       <link>/project/ps-1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/ps-1/</guid>
       <description>Summary of problem: When attempting to understand programs, services and even taxes it can be incredibly difficult to delineate between Guilford County and the municipalities that are contained within. Citizens generally have a difficult time understanding who to contact and in some cases may feel hindered or discouraged by this lack of understanding. We do a good job of providing information on our website but citizens would need to know what they are looking for to access it.</description>
+    </item>
+    
+    <item>
+      <title>Voice AI</title>
+      <link>/project/ps-7/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-7/</guid>
+      <description>Summary of problem: We do not currently have any Alexa Skills or Google Actions for Guilford County citizens or visitors to access and utilize.
+How it affects the organization: It limits the ability of citizens and visitors to access services, programs and general information.
+Current state of problem: Information Services has considered this problem for some time now and considers it to be a significant need. At this time, we have not developed or deployed any solutions.</description>
     </item>
     
     <item>
@@ -29,6 +69,16 @@
       <guid>/project/ps-2/</guid>
       <description>Summary of problem: We currently rely on a manual process of calling sites for their best estimations of wait-times which is time consuming and not accurate. Currently this information is also not reported back out to the public in real-time.
 How it affects the organization: The manual collection of this information is time consuming and mostly inaccurate. This decreases real-time flexibility in resource allocation, hinders our ability to identify problems quickly and makes it difficult to respond to media inquiries at times.</description>
+    </item>
+    
+    <item>
+      <title>Workplace Security</title>
+      <link>/project/ps-6/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-6/</guid>
+      <description>Summary of problem: We are constantly seeking innovative ideas or solutions to improve the security at Guilford County locations for employees, citizens and visitors. There is no specific problem to point to, rather a general desire to continually improve safety/security. Engaging diverse perspectives is important to expand our understanding of any area where we are seeking improvement.
+How it affects the organization: Security needs are constantly evolving and the methods/technologies used to meet those needs are constantly evolving as well.</description>
     </item>
     
   </channel>

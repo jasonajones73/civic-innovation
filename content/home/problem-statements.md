@@ -40,6 +40,18 @@ filter_default = 0
 [[filter]]
   name = "Elections"
   tag = "Elections"
+  
+[[filter]]
+  name = "Social Services"
+  tag = "Social Services"
+  
+[[filter]]
+  name = "Secuirty"
+  tag = "Security"  
+
+[[filter]]
+  name = "AI"
+  tag = "AI" 
 
 +++
 

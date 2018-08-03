@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Election Field Techs</title>
+      <link>/project/ps-3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-3/</guid>
+      <description>Summary of problem: We utilize up to 20 field technicians on election day, whose duties vary between voting machine repair, to resupply support, to other election procedure assistance. Some are based in the office and deployed by a supervisor to an area of need. Others have a “territory” in which they operate. Currently, we are not able to track these technicians to most efficiently deploy them.
+How it affects the organization: Most significant impact is that we are not able to most effectively optimize the deployment of our field technicians on Election Day.</description>
+    </item>
+    
+    <item>
       <title>Voter Wait Times</title>
       <link>/project/ps-2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>

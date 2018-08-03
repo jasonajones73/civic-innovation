@@ -21,6 +21,84 @@
     </item>
     
     <item>
+      <title>Election Field Techs</title>
+      <link>/project/ps-3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-3/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary-of-problem&#34;&gt;Summary of problem:&lt;/h2&gt;
+
+&lt;p&gt;We utilize up to 20 field technicians on election day, whose duties vary between voting machine repair, to resupply support, to other election procedure assistance.  Some are based in the office and deployed by a supervisor to an area of need.  Others have a “territory” in which they operate. Currently, we are not able to track these technicians to most efficiently deploy them.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-affects-the-organization&#34;&gt;How it affects the organization:&lt;/h2&gt;
+
+&lt;p&gt;Most significant impact is that we are not able to most effectively optimize the deployment of our field technicians on Election Day.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-state-of-problem&#34;&gt;Current state of problem:&lt;/h2&gt;
+
+&lt;p&gt;Currently, field technicians are manually deployed based on a general understanding of their location/territory. Task prioritization and deployment locations are manually considered.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
+
+&lt;p&gt;Ideal situation would be the ability to track the location of all field technicians, deploy technicians without the need to check back in at the office and to prioritize those deployments based on problem and consideration of the current status and location of all field technicians.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foster Parents</title>
+      <link>/project/ps-5/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-5/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary-of-problem&#34;&gt;Summary of problem:&lt;/h2&gt;
+
+&lt;p&gt;It is very difficult to reach and recruit people that are potentially interested in becoming foster parents. It is often true that people don’t completely understand what all is involved in becoming a foster parent and the potential rewards. This results in a significant amount of time, energy and money being spent on finding foster families and placing children in alternative options when foster families are not available.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-affects-the-organization&#34;&gt;How it affects the organization:&lt;/h2&gt;
+
+&lt;p&gt;Social Services spends a significant amount of time and money searching for potential foster care families and also spends a significant amount of money finding alternative options for children when foster families are not available.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-state-of-problem&#34;&gt;Current state of problem:&lt;/h2&gt;
+
+&lt;p&gt;Social Services has streamlined the certification process as much as possible and recently added a new position to help with the recruiting process. Despite this, it is still very difficult to reach potential foster parents.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
+
+&lt;p&gt;An ideal state would be one where we have an innovative approach/strategy to reaching out to potential foster care parents/families and then receiving them as they are interested. It would also be ideal to have a communication strategy that is as inclusive as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Services Lobby</title>
+      <link>/project/ps-4/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-4/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary-of-problem&#34;&gt;Summary of problem:&lt;/h2&gt;
+
+&lt;p&gt;It is no secret that some people have experienced significant wait times when visiting one of our locations to access various Social Services programs or services. We are constantly seeking innovative solutions to managing this and making the experience more positive for citizens and employees.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-affects-the-organization&#34;&gt;How it affects the organization:&lt;/h2&gt;
+
+&lt;p&gt;This obviously has the potential to increase any existing backlogs and create a negative or adversarial atmosphere when first encountering Guilford County government.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-state-of-problem&#34;&gt;Current state of problem:&lt;/h2&gt;
+
+&lt;p&gt;We currently experience an incredibly high volume of visitors each day, ranging from 800 to 1,000. People are coming in with different needs and going in different directions which makes triaging them complicated. We are currently forced to operate under the general assumption that people know why they are there, which is definitely not always true. Staff has to spend a considerable amount of time directing traffic as people enter.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
+
+&lt;p&gt;Ideal situation would be one that greatly reduces lobby wait times, makes it incredibly easy to understand what programs or services potentially apply to you, provides you with what you need to start or complete the process, and connects you with someone that can help you if necessary. May be important to also focus on what we can do to help people before they ever come through our doors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Understanding Local Government</title>
       <link>/project/ps-1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -47,6 +125,32 @@
     </item>
     
     <item>
+      <title>Voice AI</title>
+      <link>/project/ps-7/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-7/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary-of-problem&#34;&gt;Summary of problem:&lt;/h2&gt;
+
+&lt;p&gt;We do not currently have any Alexa Skills or Google Actions for Guilford County citizens or visitors to access and utilize.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-affects-the-organization&#34;&gt;How it affects the organization:&lt;/h2&gt;
+
+&lt;p&gt;It limits the ability of citizens and visitors to access services, programs and general information.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-state-of-problem&#34;&gt;Current state of problem:&lt;/h2&gt;
+
+&lt;p&gt;Information Services has considered this problem for some time now and considers it to be a significant need. At this time, we have not developed or deployed any solutions.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
+
+&lt;p&gt;An ideal state might be one that allows citizens and visitors to use Alexa Skills and/or Google Actions to access Guilford County services, programs and information. As an incremental step forward, it would be great to see a business case for this developed by deploying simple Skills or Actions that allow users to access basic information about county services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Voter Wait Times</title>
       <link>/project/ps-2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -69,6 +173,32 @@
 &lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
 
 &lt;p&gt;Voters would be able to see wait-times on our website in real time. This could be utilized by voters, especially during early voting, to plan appropriately and utilize previously underutilized voting sites.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workplace Security</title>
+      <link>/project/ps-6/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-6/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary-of-problem&#34;&gt;Summary of problem:&lt;/h2&gt;
+
+&lt;p&gt;We are constantly seeking innovative ideas or solutions to improve the security at Guilford County locations for employees, citizens and visitors. There is no specific problem to point to, rather a general desire to continually improve safety/security. Engaging diverse perspectives is important to expand our understanding of any area where we are seeking improvement.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-affects-the-organization&#34;&gt;How it affects the organization:&lt;/h2&gt;
+
+&lt;p&gt;Security needs are constantly evolving and the methods/technologies used to meet those needs are constantly evolving as well. Although we try to keep up as much as possible, we operate with limited resources and staff making it difficult at times to innovate.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-state-of-problem&#34;&gt;Current state of problem:&lt;/h2&gt;
+
+&lt;p&gt;Security enhancements can be very expensive and difficult to deploy with limited resources. This is complicated further by the fact that Guilford County operates facilities in Greensboro, High Point and other areas in the county. It is always advantageous for us to explore innovative ideas and diverse perspectives when considering ways in which we could improve overall security/safety.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
+
+&lt;p&gt;An ideal situation would be one that incrementally or dramatically improves security for employees/citizens in Guilford County facilities in a low-cost and easy to deploy fashion.&lt;/p&gt;
 </description>
     </item>
     

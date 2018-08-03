@@ -36,6 +36,30 @@
     
     <url>
     
+      <loc>/project/ps-3/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ps-5/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ps-4/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/ps-1/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -44,7 +68,23 @@
     
     <url>
     
+      <loc>/project/ps-7/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/ps-2/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ps-6/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -79,6 +119,15 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ai/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -139,6 +188,24 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/security/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/social-services/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

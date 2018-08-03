@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Services on Civic Innovation Competition</title>
+    <link>/tags/social-services/</link>
+    <description>Recent content in Social Services on Civic Innovation Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/social-services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foster Parents</title>
+      <link>/project/ps-5/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-5/</guid>
+      <description>Summary of problem: It is very difficult to reach and recruit people that are potentially interested in becoming foster parents. It is often true that people don’t completely understand what all is involved in becoming a foster parent and the potential rewards. This results in a significant amount of time, energy and money being spent on finding foster families and placing children in alternative options when foster families are not available.</description>
+    </item>
+    
+    <item>
+      <title>Social Services Lobby</title>
+      <link>/project/ps-4/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-4/</guid>
+      <description>Summary of problem: It is no secret that some people have experienced significant wait times when visiting one of our locations to access various Social Services programs or services. We are constantly seeking innovative solutions to managing this and making the experience more positive for citizens and employees.
+How it affects the organization: This obviously has the potential to increase any existing backlogs and create a negative or adversarial atmosphere when first encountering Guilford County government.</description>
+    </item>
+    
+  </channel>
+</rss>

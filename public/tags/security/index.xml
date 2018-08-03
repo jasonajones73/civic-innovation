@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Civic Innovation Competition</title>
+    <link>/tags/security/</link>
+    <description>Recent content in Security on Civic Innovation Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workplace Security</title>
+      <link>/project/ps-6/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ps-6/</guid>
+      <description>Summary of problem: We are constantly seeking innovative ideas or solutions to improve the security at Guilford County locations for employees, citizens and visitors. There is no specific problem to point to, rather a general desire to continually improve safety/security. Engaging diverse perspectives is important to expand our understanding of any area where we are seeking improvement.
+How it affects the organization: Security needs are constantly evolving and the methods/technologies used to meet those needs are constantly evolving as well.</description>
+    </item>
+    
+  </channel>
+</rss>
