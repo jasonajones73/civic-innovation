@@ -265,29 +265,34 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Purpose"
+  name = "Background"
   url = "#description"
   weight = 1
   
 [[menu.main]]
+  name = "Purpose"
+  url = "#purpose"
+  weight = 2
+  
+[[menu.main]]
   name = "Timeline"
   url = "#timeline"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Problems"
   url = "#problem-statements"
-  weight = 3
+  weight = 4
   
 [[menu.main]]
   name = "Application"
   url = "https://seam.ly/hEwOeHiO"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

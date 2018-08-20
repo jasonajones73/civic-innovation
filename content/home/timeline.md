@@ -16,9 +16,9 @@ weight = 20
 +++
 
 - Aug 31: Competition Opens
-- Sept 30: 1st Round Submissions Due
-- Oct 7: 1st Round Judging Due
+- Sept 30: First Round Submissions Due
+- Oct 7: First Round Judging Finalized
 - Oct 8: Finalists Notified
-- Oct 10: Finalists Prep Workshop
+- Oct 10: Finalist Prep Workshop
 - Nov 14: Final Presentations & Awards
 
