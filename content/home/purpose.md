@@ -11,7 +11,7 @@ title = "PURPOSE"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 30
 
 +++
 

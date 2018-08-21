@@ -8,7 +8,7 @@ title = "Contact"
 subtitle = "If you have any questions please reach out!"
 
 # Order that this section will appear in.
-weight = 50
+weight = 70
 
 # Automatically link email and phone?
 autolink = true

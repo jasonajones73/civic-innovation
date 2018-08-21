@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/evaluation-criteria/</loc>
+      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
@@ -85,13 +93,6 @@
     
     <url>
     
-      <loc>/post/application/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -111,6 +112,24 @@
     
       <loc>/tags/elections/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/evaluation/</loc>
+      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/evaluation/</loc>
+      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

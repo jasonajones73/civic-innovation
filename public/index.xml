@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Evaluation Criteria</title>
+      <link>/post/evaluation-criteria/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/evaluation-criteria/</guid>
+      <description>
+
+&lt;p&gt;Competition evaluation will be kept as simple as possible. Submissions will be evaluated against two criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Creativity&lt;/li&gt;
+&lt;li&gt;Applicability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Below you will find a simple definition of each and some key questions to consider for your submission.&lt;/p&gt;
+
+&lt;h2 id=&#34;creativity&#34;&gt;Creativity&lt;/h2&gt;
+
+&lt;p&gt;For this competition, judges will be looking for imaginitive solutions that leverage original ideas either alone or in conjunction with existing free/open source tools. Some important questions to ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To what extent does my solution demonstrate the approach of a non-practitioner?&lt;/li&gt;
+&lt;li&gt;How is my solution different from solutions that may already exist?&lt;/li&gt;
+&lt;li&gt;How does my solution change the way we are thinking about this problem?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;applicability&#34;&gt;Applicability&lt;/h2&gt;
+
+&lt;p&gt;This should be a fairly straightforward element to keep in sight as you work on your solution. We are interested in solutions that can have immediate impact and solve as many pain points as possible. Some important questions to ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Does this address the desired future state laid out in the problem statement?&lt;/li&gt;
+&lt;li&gt;Can this solution be implemented in a timely fashion?&lt;/li&gt;
+&lt;li&gt;Will people generally understand my solution?&lt;/li&gt;
+&lt;li&gt;Is my solution viable in a public sector setting?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
@@ -199,16 +239,6 @@
 &lt;h2 id=&#34;ideal-state-and-its-benefits&#34;&gt;Ideal state and its benefits:&lt;/h2&gt;
 
 &lt;p&gt;An ideal situation would be one that incrementally or dramatically improves security for employees/citizens in Guilford County facilities in a low-cost and easy to deploy fashion.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Application</title>
-      <link>/post/application/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/application/</guid>
-      <description>&lt;script src=&#34;https://myguilford.seamlessdocs.com/s/da65f3146615a13a9d684c34b46cf687/embed/iframe&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
