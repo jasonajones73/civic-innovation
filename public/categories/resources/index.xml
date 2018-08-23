@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Civic Innovation Competition</title>
+    <link>/categories/resources/</link>
+    <description>Recent content in Resources on Civic Innovation Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Support Resources</title>
+      <link>/post/support-resources/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/support-resources/</guid>
+      <description>About The Nussbaum Center Whether you’re contemplating starting a business or have outgrown your kitchen table there should be only one thing on your list&amp;hellip;The Nussbaum Center for Entrepreneurship!
+We provide everything you need:
+ Space Accounting Marketing and graphic design services Guidance in strategic planning Professional advice from reputable business mentors  The Nussbaum Center offers the infrastructure to not only nurture your small business in those critical, formative years but also to help you grow to become the business of your dreams.</description>
+    </item>
+    
+  </channel>
+</rss>

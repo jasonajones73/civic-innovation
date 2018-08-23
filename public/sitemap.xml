@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/support-resources/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/evaluation-criteria/</loc>
       <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     </url>
@@ -119,7 +127,7 @@
     
     <url>
     
-      <loc>/tags/evaluation/</loc>
+      <loc>/categories/evaluation/</loc>
       <lastmod>2018-08-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +136,7 @@
     
     <url>
     
-      <loc>/categories/evaluation/</loc>
+      <loc>/tags/evaluation/</loc>
       <lastmod>2018-08-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,6 +171,24 @@
     
     <url>
     
+      <loc>/categories/resources/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/resources/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/security/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -174,6 +200,24 @@
     
       <loc>/tags/social-services/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/support/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/support/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

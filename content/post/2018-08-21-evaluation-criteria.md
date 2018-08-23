@@ -33,5 +33,3 @@ This should be a fairly straightforward element to keep in sight as you work on 
 - Can this solution be implemented in a timely fashion?
 - Will people generally understand my solution?
 - Is my solution viable in a public sector setting?
-
- 
