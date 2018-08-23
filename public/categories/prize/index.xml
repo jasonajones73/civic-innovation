@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prize on Civic Innovation Competition</title>
+    <link>/categories/prize/</link>
+    <description>Recent content in Prize on Civic Innovation Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/prize/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prize Information</title>
+      <link>/post/prize-information/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/prize-information/</guid>
+      <description>Prize Breakdown The Greensboro Community Development Fund is graciously providing $10,000 in total prize money for this competition.
+In the first round of the competition following initial submissions, five finalists will be chosen to continue. Each of these finalists will receive:
+ $500 cash $500 development funding Targeted support from The Nussbaum Center  Following final presentations, judges will select one winner that will receive:
+ $5,000 cash  If the final winner&amp;rsquo;s solution is a viable product for Guilford County, consideration will also be given to how Guilford County might become the winner&amp;rsquo;s first customer.</description>
+    </item>
+    
+  </channel>
+</rss>

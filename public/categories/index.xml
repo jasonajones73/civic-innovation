@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Award</title>
+      <link>/categories/award/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/award/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation</title>
@@ -17,6 +27,15 @@
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prize</title>
+      <link>/categories/prize/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/prize/</guid>
       <description></description>
     </item>
     
